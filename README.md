@@ -11,5 +11,5 @@ tqdm python lib
 example:
 
 
-# ./books.py -u http://127.0.0.1/linux.pdf 
-# ./books.py --url http://127.0.0.1/linux.pdf --dir /home
+# ./file-Downloader.py -u http://127.0.0.1/linux.pdf 
+# ./file-Downloader.py --url http://127.0.0.1/linux.pdf --dir /home
