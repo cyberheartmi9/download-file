@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import urllib.request
 from tqdm import tqdm
 from optparse import OptionParser
